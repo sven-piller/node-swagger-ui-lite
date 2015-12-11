@@ -98,7 +98,7 @@ with zero npm-dependencies",
 node_modules/.bin/utility2 shRun shReadmeExportFile package.json package.json && \
 node_modules/.bin/utility2 test node test.js"
     },
-    "version": "2015.11.4"
+    "version": "2015.11.5"
 }
 ```
 
@@ -109,9 +109,9 @@ node_modules/.bin/utility2 test node test.js"
 
 
 
-# change since 29ed6123
-- npm publish 2015.11.4
-- revert to swagger-ui 2.1.2
+# change since a27ea864
+- npm publish 2015.11.5
+- full revert to swagger-ui 2.1.2
 - none
 
 
@@ -134,7 +134,7 @@ shBuild() {
     # init env
     . node_modules/.bin/utility2 && shInit || return $?
 
-    #!! # run npm-test on published package
+    # run npm-test on published package
     #!! shRun shNpmTestPublished || return $?
 
     # run npm-test
