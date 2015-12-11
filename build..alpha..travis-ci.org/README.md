@@ -135,7 +135,7 @@ shBuild() {
     . node_modules/.bin/utility2 && shInit || return $?
 
     # run npm-test on published package
-    #!! shRun shNpmTestPublished || return $?
+    shRun shNpmTestPublished || return $?
 
     # run npm-test
     MODE_BUILD=npmTest shRunScreenCapture npm test || return $?
