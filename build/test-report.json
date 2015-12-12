@@ -1,7 +1,7 @@
 {
     "testPlatformList": [
         {
-            "name": "npmTest - node - linux v5.2.0 - 2015-12-12T22:38:57.148Z",
+            "name": "npmTest - node - linux v5.2.0 - 2015-12-12T22:45:29.236Z",
             "screenCaptureImg": "screen-capture.npmTest.svg",
             "testCaseList": [],
             "timeElapsed": 1,
@@ -11,12 +11,12 @@
             "status": "passed"
         }
     ],
-    "timeElapsed": 3,
-    "date": "2015-12-12T22:38:57.186Z",
+    "timeElapsed": 2,
+    "date": "2015-12-12T22:45:29.266Z",
     "errorStackList": [],
     "testsFailed": 0,
     "testsPassed": 0,
     "testsPending": 0,
-    "buildBadgeSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"563\" height=\"20\"><linearGradient id=\"a\" x2=\"0\" y2=\"100%\"><stop offset=\"0\" stop-color=\"#bbb\" stop-opacity=\".1\"/><stop offset=\"1\" stop-opacity=\".1\"/></linearGradient><rect rx=\"0\" width=\"563\" height=\"20\" fill=\"#555\"/><rect rx=\"0\" x=\"61\" width=\"502\" height=\"20\" fill=\"#07f\"/><path fill=\"#07f\" d=\"M61 0h4v20h-4z\"/><rect rx=\"0\" width=\"563\" height=\"20\" fill=\"url(#a)\"/><g fill=\"#fff\" text-anchor=\"middle\" font-family=\"DejaVu Sans,Verdana,Geneva,sans-serif\" font-size=\"11\"><text x=\"31.5\" y=\"15\" fill=\"#010101\" fill-opacity=\".3\">last build</text><text x=\"31.5\" y=\"14\">last build</text><text x=\"311\" y=\"15\" fill=\"#010101\" fill-opacity=\".3\">2015-12-12 22:38:57 UTC | alpha | 92e4d967336730c04da7654398ead122aa08d484</text><text x=\"311\" y=\"14\">2015-12-12 22:38:57 UTC | alpha | 92e4d967336730c04da7654398ead122aa08d484</text></g></svg>",
+    "buildBadgeSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"563\" height=\"20\"><linearGradient id=\"a\" x2=\"0\" y2=\"100%\"><stop offset=\"0\" stop-color=\"#bbb\" stop-opacity=\".1\"/><stop offset=\"1\" stop-opacity=\".1\"/></linearGradient><rect rx=\"0\" width=\"563\" height=\"20\" fill=\"#555\"/><rect rx=\"0\" x=\"61\" width=\"502\" height=\"20\" fill=\"#07f\"/><path fill=\"#07f\" d=\"M61 0h4v20h-4z\"/><rect rx=\"0\" width=\"563\" height=\"20\" fill=\"url(#a)\"/><g fill=\"#fff\" text-anchor=\"middle\" font-family=\"DejaVu Sans,Verdana,Geneva,sans-serif\" font-size=\"11\"><text x=\"31.5\" y=\"15\" fill=\"#010101\" fill-opacity=\".3\">last build</text><text x=\"31.5\" y=\"14\">last build</text><text x=\"311\" y=\"15\" fill=\"#010101\" fill-opacity=\".3\">2015-12-12 22:45:29 UTC | alpha | 19e2897266a652be1658907db836aa86369f1ef9</text><text x=\"311\" y=\"14\">2015-12-12 22:45:29 UTC | alpha | 19e2897266a652be1658907db836aa86369f1ef9</text></g></svg>",
     "testReportBadgeSvg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"103\" height=\"20\"><linearGradient id=\"a\" x2=\"0\" y2=\"100%\"><stop offset=\"0\" stop-color=\"#bbb\" stop-opacity=\".1\"/><stop offset=\"1\" stop-opacity=\".1\"/></linearGradient><rect rx=\"0\" width=\"103\" height=\"20\" fill=\"#555\"/><rect rx=\"0\" x=\"72\" width=\"31\" height=\"20\" fill=\"#0d0\"/><path fill=\"#0d0\" d=\"M72 0h4v20h-4z\"/><rect rx=\"0\" width=\"103\" height=\"20\" fill=\"url(#a)\"/><g fill=\"#fff\" text-anchor=\"middle\" font-family=\"DejaVu Sans,Verdana,Geneva,sans-serif\" font-size=\"11\"><text x=\"37\" y=\"15\" fill=\"#010101\" fill-opacity=\".3\">tests failed</text><text x=\"37\" y=\"14\">tests failed</text><text x=\"86.5\" y=\"15\" fill=\"#010101\" fill-opacity=\".3\">0</text><text x=\"86.5\" y=\"14\">0</text></g></svg>"
 }
