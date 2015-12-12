@@ -109,7 +109,7 @@ node_modules/.bin/utility2 test node test.js"
 
 
 
-# change since a27ea864
+# change since 59d4e319
 - npm publish 2015.11.6
 - split swagger-ui into swagger-client and swagger-ui
 - uglify swagger-ui.rollup.js
