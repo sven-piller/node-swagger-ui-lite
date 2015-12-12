@@ -2,12 +2,12 @@
 <rect height="318" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">&gt; swagger-ui-lite@2015.11.5 test /home/travis/build/kaizhu256/node-swagger-ui-lite</tspan>
+<tspan x="10" y="42">&gt; swagger-ui-lite@2015.11.6 test /home/travis/build/kaizhu256/node-swagger-ui-lite</tspan>
 <tspan x="10" y="58">&gt; MODE_LINENO=0 node_modules/.bin/utility2 shRun shReadmeExportFile package.json package.json &amp;&amp;\</tspan>
 <tspan x="10" y="74"> node_modules/.bin/utility2 test node test.js</tspan>
 <tspan x="10" y="90"></tspan>
 <tspan x="10" y="106"></tspan>
-<tspan x="10" y="122">[MODE_BUILD=npmTest] - 2015-12-12T22:45:29Z - npm-testing /home/travis/build/kaizhu256/node-swag\</tspan>
+<tspan x="10" y="122">[MODE_BUILD=npmTest] - 2015-12-12T23:08:51Z - npm-testing /home/travis/build/kaizhu256/node-swag\</tspan>
 <tspan x="10" y="138">ger-ui-lite</tspan>
 <tspan x="10" y="154"></tspan>
 <tspan x="10" y="170"></tspan>
