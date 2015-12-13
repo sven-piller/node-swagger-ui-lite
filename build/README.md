@@ -36,7 +36,7 @@ minimal npm installer for swagger-ui asset files with zero npm-dependencies
 
 # documentation
 #### this package is derived from
-- nedb @ 0b564ba6
+- nedb @ 1.4.2
 - swagger-tools @ 0.9.9
 - swagger-ui @ 2.1.2
 
@@ -98,21 +98,20 @@ with zero npm-dependencies",
 node_modules/.bin/utility2 shRun shReadmeExportFile package.json package.json && \
 node_modules/.bin/utility2 test node test.js"
     },
-    "version": "2015.11.6"
+    "version": "2015.11.7"
 }
 ```
 
 
 
 # todo
+- npm publish 2015.11.7
 - none
 
 
 
-# change since 59d4e319
-- npm publish 2015.11.6
-- split swagger-ui into swagger-client and swagger-ui
-- uglify swagger-ui.rollup.js
+# change since 75a60ff7
+- update to nedb @ 1.4.2
 - none
 
 
