@@ -77,7 +77,7 @@ minimal npm installer for swagger-ui asset files with zero npm-dependencies
 with zero npm-dependencies",
     "devDependencies": {
         "electron-lite": "2015.11.2",
-        "utility2": "2015.11.15"
+        "utility2": "2015.11.16"
     },
     "keywords": [
         "api",
@@ -105,13 +105,13 @@ node_modules/.bin/utility2 test node test.js"
 
 
 # todo
-- npm publish 2015.11.7
 - none
 
 
 
 # change since 75a60ff7
-- update to nedb @ 1.4.2
+- npm publish 2015.11.7
+- update to nedb @ 1.4.2 and inspected it to work standalone in both nodejs and browser
 - none
 
 
