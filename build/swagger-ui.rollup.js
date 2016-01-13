@@ -1,3 +1,4 @@
+/* jslint-ignore-all */
 // init lib jquery
 // https://github.com/swagger-api/swagger-ui/blob/v2.1.2/lib/jquery-1.8.0.min.js
 /*! jQuery v@1.8.0 jquery.com | jquery.org/license */
