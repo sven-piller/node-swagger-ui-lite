@@ -40,6 +40,11 @@
     "schemes": [
         "http"
     ],
+    "security":[
+        {
+            "jsonWebToken": []
+        }
+    ],
     "paths": {
         "/pet": {
             "post": {
@@ -75,10 +80,7 @@
                 },
                 "security": [
                     {
-                        "petstore_auth": [
-                            "write:pets",
-                            "read:pets"
-                        ]
+                        "jsonWebToken": []
                     }
                 ]
             },
@@ -176,10 +178,7 @@
                 },
                 "security": [
                     {
-                        "petstore_auth": [
-                            "write:pets",
-                            "read:pets"
-                        ]
+                        "jsonWebToken": []
                     }
                 ]
             }
@@ -849,6 +848,11 @@
         "api_key": {
             "type": "apiKey",
             "name": "api_key",
+            "in": "header"
+        },
+        "jsonWebToken": {
+            "type": "apiKey",
+            "name": "x-access-token",
             "in": "header"
         }
     },

@@ -1356,8 +1356,8 @@ table {
   font-size: 1.5em;
   font-weight: bold;
   text-decoration: none;
-  background: transparent url(swagger-ui.logo_small.png) no-repeat left center;
-  padding: 20px 0 20px 40px;
+  background: transparent url(logo_legos.png) no-repeat left center;
+  padding: 20px 0 20px 120px;
   color: white;
 }
 .swagger-section #header form#api_selector {
@@ -1395,6 +1395,26 @@ table {
 .swagger-section #header form#api_selector .input a#explore:hover {
   background-color: #547f00;
 }
+
+.swagger-section #header form#api_selector .input a#auth {
+  display: block;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 6px 8px;
+  font-size: 0.9em;
+  color: white;
+  background-color: #547f00;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -o-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -khtml-border-radius: 4px;
+  border-radius: 4px;
+}
+.swagger-section #header form#api_selector .input a#auth:hover {
+  background-color: #547f00;
+}
+
 .swagger-section #header form#api_selector .input input {
   font-size: 0.9em;
   padding: 3px;
